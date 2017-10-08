@@ -1,3 +1,3 @@
 # dotfiles
 
-Desktop setup for my personal Arch machine.
+Desktop setup for my personal Manjaro machine.
